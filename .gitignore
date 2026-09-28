@@ -1,0 +1,6 @@
+/target
+/blocks
+/blocks_tmp
+.venv/
+*.txt
+
